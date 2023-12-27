@@ -13,6 +13,7 @@ class Manager {
     private init() {}
     
     static func saveProductsToCoreData(_ products: [Product]) {
+        print("saveProductsToCoreData")
         guard let appDelegate = UIApplication.shared.delegate as? AppDelegate else {
             return
         }
@@ -33,6 +34,7 @@ class Manager {
     }
     
     static func loadProductsFromCoreData(completion: @escaping ([Product]?) -> Void) {
+        print("loadProductsFromCoreData")
         guard let appDelegate = UIApplication.shared.delegate as? AppDelegate else {
             completion(nil)
             return

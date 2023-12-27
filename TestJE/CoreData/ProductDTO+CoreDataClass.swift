@@ -9,7 +9,7 @@
 import Foundation
 import CoreData
 
-@objc(ProductDTO)
+
 public class ProductDTO: NSManagedObject {
 
 }

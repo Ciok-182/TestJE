@@ -20,9 +20,9 @@
 		CF5E75042B3CB12400880F6D /* ProductTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5E75032B3CB12400880F6D /* ProductTableViewCell.swift */; };
 		CF5E75072B3CB20D00880F6D /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5E75062B3CB20D00880F6D /* Product.swift */; };
 		CF5E750A2B3CB47A00880F6D /* Interactor.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5E75092B3CB47A00880F6D /* Interactor.swift */; };
-		CF5E75162B3CC28000880F6D /* ProductDTO+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5E75142B3CC28000880F6D /* ProductDTO+CoreDataClass.swift */; };
-		CF5E75172B3CC28000880F6D /* ProductDTO+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5E75152B3CC28000880F6D /* ProductDTO+CoreDataProperties.swift */; };
 		CF5E75192B3CC41F00880F6D /* Manager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5E75182B3CC41F00880F6D /* Manager.swift */; };
+		CF5E751E2B3CCC0900880F6D /* ProductDTO+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5E751C2B3CCC0900880F6D /* ProductDTO+CoreDataClass.swift */; };
+		CF5E751F2B3CCC0900880F6D /* ProductDTO+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5E751D2B3CCC0900880F6D /* ProductDTO+CoreDataProperties.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,9 +60,9 @@
 		CF5E75032B3CB12400880F6D /* ProductTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductTableViewCell.swift; sourceTree = "<group>"; };
 		CF5E75062B3CB20D00880F6D /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 		CF5E75092B3CB47A00880F6D /* Interactor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Interactor.swift; sourceTree = "<group>"; };
-		CF5E75142B3CC28000880F6D /* ProductDTO+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ProductDTO+CoreDataClass.swift"; sourceTree = "<group>"; };
-		CF5E75152B3CC28000880F6D /* ProductDTO+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ProductDTO+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		CF5E75182B3CC41F00880F6D /* Manager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Manager.swift; sourceTree = "<group>"; };
+		CF5E751C2B3CCC0900880F6D /* ProductDTO+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ProductDTO+CoreDataClass.swift"; sourceTree = "<group>"; };
+		CF5E751D2B3CCC0900880F6D /* ProductDTO+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ProductDTO+CoreDataProperties.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -173,8 +173,8 @@
 		CF5E75132B3CC0AB00880F6D /* CoreData */ = {
 			isa = PBXGroup;
 			children = (
-				CF5E75152B3CC28000880F6D /* ProductDTO+CoreDataProperties.swift */,
-				CF5E75142B3CC28000880F6D /* ProductDTO+CoreDataClass.swift */,
+				CF5E751C2B3CCC0900880F6D /* ProductDTO+CoreDataClass.swift */,
+				CF5E751D2B3CCC0900880F6D /* ProductDTO+CoreDataProperties.swift */,
 				CF5E75182B3CC41F00880F6D /* Manager.swift */,
 			);
 			path = CoreData;
@@ -311,13 +311,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF5E751E2B3CCC0900880F6D /* ProductDTO+CoreDataClass.swift in Sources */,
 				CF5E74D52B3CA51B00880F6D /* ViewController.swift in Sources */,
-				CF5E75172B3CC28000880F6D /* ProductDTO+CoreDataProperties.swift in Sources */,
 				CF5E74D12B3CA51B00880F6D /* AppDelegate.swift in Sources */,
+				CF5E751F2B3CCC0900880F6D /* ProductDTO+CoreDataProperties.swift in Sources */,
 				CF5E75042B3CB12400880F6D /* ProductTableViewCell.swift in Sources */,
 				CF5E74DB2B3CA51B00880F6D /* TestJE.xcdatamodeld in Sources */,
 				CF5E74D32B3CA51B00880F6D /* SceneDelegate.swift in Sources */,
-				CF5E75162B3CC28000880F6D /* ProductDTO+CoreDataClass.swift in Sources */,
 				CF5E750A2B3CB47A00880F6D /* Interactor.swift in Sources */,
 				CF5E75072B3CB20D00880F6D /* Product.swift in Sources */,
 				CF5E75192B3CC41F00880F6D /* Manager.swift in Sources */,

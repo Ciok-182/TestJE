@@ -35,6 +35,9 @@ class Interactor: NSObject {
                     
                     do {
                         let products = try JSONDecoder().decode([Product].self, from: data)
+                        
+                        //let myTestPruducts = [Product(name: "Producto 1", price: 10.67), Product(name: "Producto 2", price: 99.78),  Product(name: "Producto 3", price: 120.84)]
+                        
                         Manager.saveProductsToCoreData(products)
                         self?.delegate?.doneGetProducts(success: true, description: "OK", products: products)
                     } catch {
