@@ -7,7 +7,7 @@
 
 import UIKit
 
-struct Product: Codable {
+public class Product: Codable {
     var name: String = ""
     var price: Double = 0
 }

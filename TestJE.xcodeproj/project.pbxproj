@@ -107,6 +107,7 @@
 		CF5E74CF2B3CA51B00880F6D /* TestJE */ = {
 			isa = PBXGroup;
 			children = (
+				CF5E75132B3CC0AB00880F6D /* CoreData */,
 				CF5E750B2B3CB6BF00880F6D /* View */,
 				CF5E75082B3CB44700880F6D /* Interctor */,
 				CF5E75052B3CB1E200880F6D /* Models */,
@@ -161,6 +162,13 @@
 				CF5E75032B3CB12400880F6D /* ProductTableViewCell.swift */,
 			);
 			path = View;
+			sourceTree = "<group>";
+		};
+		CF5E75132B3CC0AB00880F6D /* CoreData */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = CoreData;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
