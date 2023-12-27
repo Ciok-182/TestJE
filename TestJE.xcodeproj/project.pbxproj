@@ -17,6 +17,9 @@
 		CF5E74EB2B3CA51D00880F6D /* TestJETests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5E74EA2B3CA51D00880F6D /* TestJETests.swift */; };
 		CF5E74F52B3CA51D00880F6D /* TestJEUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5E74F42B3CA51D00880F6D /* TestJEUITests.swift */; };
 		CF5E74F72B3CA51D00880F6D /* TestJEUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5E74F62B3CA51D00880F6D /* TestJEUITestsLaunchTests.swift */; };
+		CF5E75042B3CB12400880F6D /* ProductTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5E75032B3CB12400880F6D /* ProductTableViewCell.swift */; };
+		CF5E75072B3CB20D00880F6D /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5E75062B3CB20D00880F6D /* Product.swift */; };
+		CF5E750A2B3CB47A00880F6D /* Interactor.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5E75092B3CB47A00880F6D /* Interactor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +54,9 @@
 		CF5E74F02B3CA51D00880F6D /* TestJEUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestJEUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF5E74F42B3CA51D00880F6D /* TestJEUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestJEUITests.swift; sourceTree = "<group>"; };
 		CF5E74F62B3CA51D00880F6D /* TestJEUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestJEUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CF5E75032B3CB12400880F6D /* ProductTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductTableViewCell.swift; sourceTree = "<group>"; };
+		CF5E75062B3CB20D00880F6D /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		CF5E75092B3CB47A00880F6D /* Interactor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Interactor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,12 +107,14 @@
 		CF5E74CF2B3CA51B00880F6D /* TestJE */ = {
 			isa = PBXGroup;
 			children = (
+				CF5E750B2B3CB6BF00880F6D /* View */,
+				CF5E75082B3CB44700880F6D /* Interctor */,
+				CF5E75052B3CB1E200880F6D /* Models */,
 				CF5E74D02B3CA51B00880F6D /* AppDelegate.swift */,
 				CF5E74D22B3CA51B00880F6D /* SceneDelegate.swift */,
-				CF5E74D42B3CA51B00880F6D /* ViewController.swift */,
 				CF5E74D62B3CA51B00880F6D /* Main.storyboard */,
-				CF5E74DC2B3CA51D00880F6D /* Assets.xcassets */,
 				CF5E74DE2B3CA51D00880F6D /* LaunchScreen.storyboard */,
+				CF5E74DC2B3CA51D00880F6D /* Assets.xcassets */,
 				CF5E74E12B3CA51D00880F6D /* Info.plist */,
 				CF5E74D92B3CA51B00880F6D /* TestJE.xcdatamodeld */,
 			);
@@ -128,6 +136,31 @@
 				CF5E74F62B3CA51D00880F6D /* TestJEUITestsLaunchTests.swift */,
 			);
 			path = TestJEUITests;
+			sourceTree = "<group>";
+		};
+		CF5E75052B3CB1E200880F6D /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				CF5E75062B3CB20D00880F6D /* Product.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		CF5E75082B3CB44700880F6D /* Interctor */ = {
+			isa = PBXGroup;
+			children = (
+				CF5E75092B3CB47A00880F6D /* Interactor.swift */,
+			);
+			path = Interctor;
+			sourceTree = "<group>";
+		};
+		CF5E750B2B3CB6BF00880F6D /* View */ = {
+			isa = PBXGroup;
+			children = (
+				CF5E74D42B3CA51B00880F6D /* ViewController.swift */,
+				CF5E75032B3CB12400880F6D /* ProductTableViewCell.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -263,8 +296,11 @@
 			files = (
 				CF5E74D52B3CA51B00880F6D /* ViewController.swift in Sources */,
 				CF5E74D12B3CA51B00880F6D /* AppDelegate.swift in Sources */,
+				CF5E75042B3CB12400880F6D /* ProductTableViewCell.swift in Sources */,
 				CF5E74DB2B3CA51B00880F6D /* TestJE.xcdatamodeld in Sources */,
 				CF5E74D32B3CA51B00880F6D /* SceneDelegate.swift in Sources */,
+				CF5E750A2B3CB47A00880F6D /* Interactor.swift in Sources */,
+				CF5E75072B3CB20D00880F6D /* Product.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
