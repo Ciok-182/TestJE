@@ -3,4 +3,495 @@
    uuid = "9B631B81-0580-47B1-98E1-20408DFCA113"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFFB32F7-9437-42E9-A4D4-34D86E050E4C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestJE/Interctor/Interactor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getProducts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CFFB32F7-9437-42E9-A4D4-34D86E050E4C - adc535ca8252f571"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; () in TestJE.Interactor.getProducts() -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/Interctor/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1117">
+               </Location>
+               <Location
+                  uuid = "CFFB32F7-9437-42E9-A4D4-34D86E050E4C - adc535ca8252f571"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; () in TestJE.Interactor.getProducts() -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/Interctor/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "219">
+               </Location>
+               <Location
+                  uuid = "CFFB32F7-9437-42E9-A4D4-34D86E050E4C - adc535ca8252f571"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; () in TestJE.Interactor.getProducts() -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/Interctor/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "343">
+               </Location>
+               <Location
+                  uuid = "CFFB32F7-9437-42E9-A4D4-34D86E050E4C - adc535ca8252f571"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; () in TestJE.Interactor.getProducts() -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/Interctor/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "238">
+               </Location>
+               <Location
+                  uuid = "CFFB32F7-9437-42E9-A4D4-34D86E050E4C - adc535ca8252f571"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; () in TestJE.Interactor.getProducts() -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/Interctor/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "362">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDAF5E7E-A8CE-44C0-8CD5-0D010C836EFE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestJE/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "doneGetProducts(success:description:products:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A73998F2-448B-43E3-BB9F-E118A811FB21"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestJE/Interctor/Interactor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getProducts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A73998F2-448B-43E3-BB9F-E118A811FB21 - adc535ca8252f26a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; () in TestJE.Interactor.getProducts() -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/Interctor/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "581">
+               </Location>
+               <Location
+                  uuid = "A73998F2-448B-43E3-BB9F-E118A811FB21 - adc535ca8252f26a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; () in TestJE.Interactor.getProducts() -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/Interctor/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "435">
+               </Location>
+               <Location
+                  uuid = "A73998F2-448B-43E3-BB9F-E118A811FB21 - adc535ca8252f26a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; () in TestJE.Interactor.getProducts() -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/Interctor/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "454">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45115579-E79C-4A1E-AC63-FC18568636AB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestJE/Interctor/Interactor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getProducts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "45115579-E79C-4A1E-AC63-FC18568636AB - adc535ca8252f550"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; () in TestJE.Interactor.getProducts() -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/Interctor/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1543">
+               </Location>
+               <Location
+                  uuid = "45115579-E79C-4A1E-AC63-FC18568636AB - adc535ca8252f550"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; () in TestJE.Interactor.getProducts() -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/Interctor/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1117">
+               </Location>
+               <Location
+                  uuid = "45115579-E79C-4A1E-AC63-FC18568636AB - adc535ca8252f550"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; () in TestJE.Interactor.getProducts() -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/Interctor/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8FF8B333-C52A-448E-AEB0-64AC972D1603"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestJE/Interctor/Interactor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "getProducts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8FF8B333-C52A-448E-AEB0-64AC972D1603 - f2e46be3b0e6bf80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; () in TestJE.Interactor.getProducts() -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/Interctor/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "2346">
+               </Location>
+               <Location
+                  uuid = "8FF8B333-C52A-448E-AEB0-64AC972D1603 - adc535ca8252f0a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; () in TestJE.Interactor.getProducts() -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/Interctor/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1785">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD990163-4FEA-4BED-B62D-1C9F2BF13510"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestJE/Interctor/Interactor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getProducts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BD990163-4FEA-4BED-B62D-1C9F2BF13510 - f2e46be3b0e6ba99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; () in TestJE.Interactor.getProducts() -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/Interctor/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "2244">
+               </Location>
+               <Location
+                  uuid = "BD990163-4FEA-4BED-B62D-1C9F2BF13510 - f2e46be3b0e6ba99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; () in TestJE.Interactor.getProducts() -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/Interctor/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1885">
+               </Location>
+               <Location
+                  uuid = "BD990163-4FEA-4BED-B62D-1C9F2BF13510 - f2e46be3b0e6ba99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; () in TestJE.Interactor.getProducts() -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/Interctor/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1888">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "634D4909-817B-444E-A164-9F1F9B9F0BB3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestJE/Interctor/Interactor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getProducts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "634D4909-817B-444E-A164-9F1F9B9F0BB3 - f2e46be3b0e6bb7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; () in TestJE.Interactor.getProducts() -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/Interctor/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1100">
+               </Location>
+               <Location
+                  uuid = "634D4909-817B-444E-A164-9F1F9B9F0BB3 - f2e46be3b0e6bb7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; () in TestJE.Interactor.getProducts() -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/Interctor/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1352">
+               </Location>
+               <Location
+                  uuid = "634D4909-817B-444E-A164-9F1F9B9F0BB3 - f2e46be3b0e6bb7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; () in TestJE.Interactor.getProducts() -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/Interctor/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1355">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDC6D4FA-1B34-437A-8A0F-8466E8A5A075"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestJE/CoreData/Manager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "loadProductsFromCoreData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CDC6D4FA-1B34-437A-8A0F-8466E8A5A075 - aef4df5537cea22f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static TestJE.Manager.loadProductsFromCoreData(completion: (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/CoreData/Manager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1856">
+               </Location>
+               <Location
+                  uuid = "CDC6D4FA-1B34-437A-8A0F-8466E8A5A075 - aef4df5537cea22f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static TestJE.Manager.loadProductsFromCoreData(completion: (Swift.Optional&lt;Swift.Array&lt;TestJE.Product&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestJE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Code/TestJE/TestJE/TestJE/CoreData/Manager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1919">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1746EF7B-51FF-45CA-BFE7-884FE38EE659"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestJE/Interctor/Interactor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "getProducts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "265ACA65-386F-4B96-B8B6-122D7E29431B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestJE/CoreData/Manager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "loadProductsFromCoreData(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

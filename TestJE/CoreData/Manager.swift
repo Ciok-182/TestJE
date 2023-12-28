@@ -34,7 +34,7 @@ class Manager {
     }
     
     static func loadProductsFromCoreData(completion: @escaping ([Product]?) -> Void) {
-        print("loadProductsFromCoreData")
+        print("init loadProductsFromCoreData")
         guard let appDelegate = UIApplication.shared.delegate as? AppDelegate else {
             completion(nil)
             return
@@ -46,6 +46,7 @@ class Manager {
         do {
             let productEntities = try context.fetch(fetchRequest)
             let products = productEntities.map { Product(name: $0.name ?? "", price: $0.price) }
+            print("got \(products.count) products")
             completion(products)
         } catch {
             print("Failed to fetch data from Core Data: \(error)")
